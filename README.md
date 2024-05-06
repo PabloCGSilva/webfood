@@ -2,7 +2,7 @@
 
 Description
 
-Webfood is a web application for managing food items. It allows users to create, edit, and delete food items through a user-friendly interface.
+Webfood is a web application for managing items. It allows users to create, edit, and delete food items through a user-friendly interface.
 Technologies Used
 
     HTML5
@@ -41,7 +41,7 @@ Usage
 
     node server.js
 
-    Open your web browser and navigate to http://localhost:3000 to access the application.
+    Open your web browser and navigate to http://localhost:4200 to access the application.
 
     Use the interface to create, edit, and delete food items as needed.
 
